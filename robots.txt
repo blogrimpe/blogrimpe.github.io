@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://blogrimpe.github.io/sitemap.html.gz
+Sitemap: https://blogrimpe.github.io/app/sitemap.html.gz
+Sitemap: https://blogrimpe.github.io/assets/sitemap.html.gz
+Sitemap: https://blogrimpe.github.io/css/sitemap.html.gz
+Sitemap: https://blogrimpe.github.io/includes/sitemap.html.gz
+Sitemap: https://blogrimpe.github.io/item/sitemap.html.gz
+Sitemap: https://blogrimpe.github.io/src/sitemap.html.gz
